@@ -1,0 +1,15 @@
+beef puff pastry almond,merlot 
+oyster,champagne
+salmon,pinot grigio
+tuna,pinot grigio
+pasta chicken alfredo parmesan,chardonnay
+beef roast carrot onion potato,pinot noir
+elk,cabernet sauvignon
+ribs french fries,stout
+tacos rice beans,lager
+pork chop,ipa
+pork sliders,ipa
+hamburger,pale ale
+minestrone,hefeweizen
+caesar,hefeweizen
+beef stew,red ale
