@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace BeveragePairer
 {
+    //abstract the logic for file creation operations from the main process to this 
     public abstract class FileTasks
     {
         public abstract void CreateIO(string x);

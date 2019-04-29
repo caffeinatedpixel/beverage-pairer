@@ -149,6 +149,7 @@
     <Compile Include="DishViewer.xaml.cs">
       <DependentUpon>DishViewer.xaml</DependentUpon>
     </Compile>
+    <Compile Include="FileTasks.cs" />
     <Compile Include="FindBeverage.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -181,6 +182,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="UML.cd" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -60,6 +60,10 @@ namespace BeveragePairer
             DishMetadata dishes = DishData.GetDishList(request);
             SelectDish(dishes);
             var beverages = FindBeverage.GetBeverage();
+            if(beverages == null)
+            {
+                return;
+            }
             Beverages = beverages;
             var mostUsed = RankBeverage();
             SavePairing();
@@ -166,6 +170,7 @@ namespace BeveragePairer
         {
             string text = DishData.SelectedDish.title + " -> " + RankBeverage() + Environment.NewLine;
             File.AppendAllText(saveFile, text);
+            DisplaySaved();
         }
 
         private void DisplaySaved()
