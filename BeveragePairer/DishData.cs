@@ -14,6 +14,7 @@ namespace BeveragePairer
     {
         public static DishMetadata GetDishList(string encodedRequest)
         {
+            //HTTP request to recipepuppy to get dishes based on typed in value
             using (WebResponse wr = WebRequest.Create("http://www.recipepuppy.com/api/?q=" + encodedRequest).GetResponse())
             {
                 using (StreamReader sr = new StreamReader(wr.GetResponseStream()))
@@ -24,7 +25,7 @@ namespace BeveragePairer
                 }
             }
         }
-
+        //public property to access the selected dish from the main process
         public static Dish SelectedDish {get; set;}    
     }
 }
