@@ -1,7 +1,3 @@
-C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\FactorizationMachineNative.dll
-C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\FastTreeNative.dll
-C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\LdaNative.dll
-C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\CpuMathNative.dll
 C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\Beverage-Food-Data.csv
 C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\BeveragePairer.exe.config
 C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\BeveragePairer.exe
@@ -43,7 +39,6 @@ C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\BeveragePairer.csprojAssem
 C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\DishViewer.g.cs
 C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\MainWindow.g.cs
 C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\App.g.cs
-C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\BeveragePairer_Content.g.cs
 C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\BeveragePairer_MarkupCompile.cache
 C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\BeveragePairer_MarkupCompile.lref
 C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\DishViewer.baml
@@ -55,3 +50,8 @@ C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\BeveragePairer.csproj.Core
 C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\BeveragePairer.csproj.CopyComplete
 C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\BeveragePairer.exe
 C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\BeveragePairer.pdb
+C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\FactorizationMachineNative.dll
+C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\FastTreeNative.dll
+C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\LdaNative.dll
+C:\repos\beverage-pairer\BeveragePairer\bin\x64\Debug\CpuMathNative.dll
+C:\repos\beverage-pairer\BeveragePairer\obj\x64\Debug\BeveragePairer_Content.g.cs

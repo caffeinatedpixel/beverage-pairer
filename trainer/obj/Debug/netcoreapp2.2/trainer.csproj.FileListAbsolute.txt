@@ -1,0 +1,11 @@
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/obj/Debug/netcoreapp2.2/trainer.csprojAssemblyReference.cache
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/obj/Debug/netcoreapp2.2/trainer.csproj.CoreCompileInputs.cache
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/obj/Debug/netcoreapp2.2/trainer.AssemblyInfoInputs.cache
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/obj/Debug/netcoreapp2.2/trainer.AssemblyInfo.cs
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/bin/Debug/netcoreapp2.2/trainer.deps.json
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/bin/Debug/netcoreapp2.2/trainer.runtimeconfig.json
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/bin/Debug/netcoreapp2.2/trainer.runtimeconfig.dev.json
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/bin/Debug/netcoreapp2.2/trainer.dll
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/bin/Debug/netcoreapp2.2/trainer.pdb
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/obj/Debug/netcoreapp2.2/trainer.dll
+/Users/naomigoddard147/Desktop/repos/beverage-pairer/trainer/obj/Debug/netcoreapp2.2/trainer.pdb
