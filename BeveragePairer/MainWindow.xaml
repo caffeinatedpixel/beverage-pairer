@@ -1,0 +1,18 @@
+﻿<Window x:Class="BeveragePairer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BeveragePairer"
+        mc:Ignorable="d"
+        Title="Beverage Pairer" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="searchItem" HorizontalAlignment="Left" Height="23" Margin="294,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" ToolTip="Enter the name of a dish to pair a beverage with"/>
+
+        <Button x:Name="searchBtn" Content="Search" HorizontalAlignment="Left" Margin="430,83,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="SearchBtn_Click"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="286" Margin="573,123,0,0" Stroke="Black" VerticalAlignment="Top" Width="209"/>
+        <Label x:Name="pairingTitleLabel" Content="Find Your Pairing!" HorizontalAlignment="Left" Margin="294,20,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="419" Stroke="Black" VerticalAlignment="Top" Width="85"/>
+
+    </Grid>
+</Window>
